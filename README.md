@@ -41,7 +41,7 @@ Contains result of performing Ydata profiling on the yelp dataset.
 Contains result of performing Ydata profiling on the yelp dataset.
 
 ### Models_on_Balanced_Dataset.ipynb : 
-Pyhton file run in Google colab that contains python code for running the classifiers on the Balanced sample of the yelp restaurant reviews dataset
+Pyhton file run in Google colab that contains python code for running the classifiers on the Balanced sample of the yelp restaurant reviews dataset. Class template used was gotten from: https://github.com/awesomeahi95/Hotel_Review_NLP/blob/master/Classification.py
 
 ### Data_Description,_Cleaning,_&_EDA.ipynb:
 python file containing code to describe, clean and explore data
