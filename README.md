@@ -24,4 +24,34 @@
     
 ## Analysis and Interpretation
 
+# Links to Dataset
+https://drive.google.com/drive/folders/13bk1_wEY5OPX2Sb9TjFia6WNskIb8jWd?usp=sharing
+
 # Repository Content
+### Balanced_Sampling.ipynb : 
+Contains code to create balanced sample of the yelp restaurant reviews dataset.
+
+### Code Results Report: 
+Compiled report of the code results in pdf format.
+
+### Exploratory Analysis Report on Business Data.html : 
+Contains result of performing Ydata profiling on the yelp dataset.
+
+### Exploratory Analysis Report on Reviews Data 50% sampled.html : 
+Contains result of performing Ydata profiling on the yelp dataset.
+
+### Models_on_Balanced_Dataset.ipynb : 
+Pyhton file run in Google colab that contains python code for running the classifiers on the Balanced sample of the yelp restaurant reviews dataset
+
+### Data_Description,_Cleaning,_&_EDA.ipynb:
+python file containing code to describe, clean and explore data
+### Preprocessing.ipynb:
+Pyhton file to pre-process data (Language detection, lemmatization, tokenization)
+### Sentiment_Analysis_Vader_on_Original_dataset.ipynb
+Python file with code to implement Vader to perform sentiment analysis
+### Sentiment_Analysis_with_TextBlob_and_Flair.ipynb: 
+Python file with code to implement TextBlob and Flair to perform sentiment analysis
+### Ydata.ipynb:
+Python file with code to implement Ydata profiling
+### project links.docx :
+Contains link to working datasets used
